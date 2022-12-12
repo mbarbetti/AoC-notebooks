@@ -1,12 +1,12 @@
 # 🎄 Advent of Code - notebooks
 
-![](https://img.shields.io/badge/total%20stars%20⭐-14-yellow)
+![](https://img.shields.io/badge/total%20stars%20⭐-16-yellow)
 
 Notebooks and data to solve puzzles from [Advent of Code](https://adventofcode.com).
 
 List of AoC editions:
 
-> [![](https://img.shields.io/badge/AoC%20🎄-2022-brightgreen)](https://adventofcode.com/2022) ![](https://img.shields.io/badge/stars%20⭐-4-yellow) ![](https://img.shields.io/badge/days%20completed-2-red)
+> [![](https://img.shields.io/badge/AoC%20🎄-2022-brightgreen)](https://adventofcode.com/2022) ![](https://img.shields.io/badge/stars%20⭐-6-yellow) ![](https://img.shields.io/badge/days%20completed-3-red)
 >
 > [![](https://img.shields.io/badge/AoC%20🎄-2021-inactive)](https://adventofcode.com/2021) ![](https://img.shields.io/badge/stars%20⭐-0-yellow) ![](https://img.shields.io/badge/days%20completed-0-red)
 >
@@ -20,4 +20,4 @@ List of AoC editions:
 >
 > [![](https://img.shields.io/badge/AoC%20🎄-2016-inactive)](https://adventofcode.com/2016) ![](https://img.shields.io/badge/stars%20⭐-0-yellow) ![](https://img.shields.io/badge/days%20completed-0-red)
 >
-> [![](https://img.shields.io/badge/AoC%20🎄-2015-inactive)](https://adventofcode.com/2015) ![](https://img.shields.io/badge/stars%20⭐-10-yellow) ![](https://img.shields.io/badge/days%20completed-5-red)
+> [![](https://img.shields.io/badge/AoC%20🎄-2015-important)](https://adventofcode.com/2015) ![](https://img.shields.io/badge/stars%20⭐-10-yellow) ![](https://img.shields.io/badge/days%20completed-5-red)
